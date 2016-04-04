@@ -1,2 +1,2 @@
-# Programming-Fundamentals
+# Programming Fundamentals
 # Project IST
